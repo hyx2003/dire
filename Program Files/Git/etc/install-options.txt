@@ -1,0 +1,9 @@
+Editor Option: VIM
+Path Option: Cmd
+SSH Option: OpenSSH
+CURL Option: WinSSL
+CRLF Option: CRLFAlways
+Bash Terminal Option: MinTTY
+Performance Tweaks FSCache: Enabled
+Use Credential Manager: Enabled
+Enable Symlinks: Enabled
